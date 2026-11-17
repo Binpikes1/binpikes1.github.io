@@ -1,0 +1,1 @@
+[{"relation": ["delegate_permission/common.handle_all_urls"], "target": {"namespace": "android_app", "package_name": "be.binpikes.weekmenu", "sha256_cert_fingerprints": ["12:03:1A:F3:E0:42:2D:78:1F:A9:EA:A8:49:E3:7C:AD:4E:12:93:40:3B:0B:61:D8:39:E0:46:C3:90:C0:0B:B7"]}}]
